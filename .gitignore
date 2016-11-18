@@ -1,0 +1,8 @@
+*
+
+# Whitelist
+!.gitignore
+!3ds2png.py
+!config.ini
+!README.MD
+!LICENSE
