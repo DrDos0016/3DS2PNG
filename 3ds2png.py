@@ -49,7 +49,7 @@ def main():
             proc_string = "Processing: Set {} Image {} - [{}]"
             print(proc_string.format(set_count,
                                      png_count,
-                                     SCREENS[screen_key])
+                                     SCREENS[screen_key]),
                   end=" ", flush=True)
 
             # Find start of current picture and start of next (to find the end)
