@@ -40,5 +40,5 @@ adjusted at some point.
 
 ### Credits
 
-Program createdby Dr. Dos.<br>
+Program created by Dr. Dos.<br>
 Thanks to Smealum for HANS and scrtool
